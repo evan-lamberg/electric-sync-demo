@@ -1,0 +1,36 @@
+.container {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background-color: #f9fafb;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+  }
+  
+  .title {
+    margin-bottom: 16px;
+    font-size: 1.5rem;
+    color: #333;
+  }
+  
+  .status {
+    color: #555;
+    font-style: italic;
+  }
+  
+  .error {
+    color: red;
+    font-weight: bold;
+  }
+  
+  .code {
+    background-color: #1e1e1e;
+    color: #dcdcdc;
+    padding: 16px;
+    border-radius: 6px;
+    overflow-x: auto;
+    font-family: 'Courier New', monospace;
+    font-size: 0.9rem;
+  }
+  
